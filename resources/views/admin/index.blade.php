@@ -33,8 +33,9 @@
          @slot('pValue') 62   @endslot
         
      @endcomponent
-     
-                        </div>
+
+
+            </div>
 
                         <div class="col-xl-6">
                             <div class="card">
